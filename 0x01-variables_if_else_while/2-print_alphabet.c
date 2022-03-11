@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * Main - Prints the alphet in lowercase
+ * Main - Prints the alphabet
  *
  * Return: Always 0 (Sucess)
  *
