@@ -16,6 +16,6 @@ int main(void)
 	{
 		putchar(alp[1]);
 	}
-	putcahr('\n');
+	putchar('\n');
 	return (0);
 }
