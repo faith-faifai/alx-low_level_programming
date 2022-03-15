@@ -1,4 +1,4 @@
-#include "stdio.h"
+#include "holberton.h"
 
 /**
  * main - Prints _putchar as a message.
