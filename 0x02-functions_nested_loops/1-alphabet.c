@@ -1,5 +1,4 @@
 #include <stdio.h>
-int  print_alphabet(void);
 /**
  * print_alphabet - Prints the alphabet in lowercase.
  *
@@ -8,7 +7,7 @@ int  print_alphabet(void);
 
 int main(void)
 {
-	print_alphabet();
+	print_alphabet(void);
 	return(0);
 }
 
