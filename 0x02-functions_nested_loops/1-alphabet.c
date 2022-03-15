@@ -11,7 +11,7 @@ int main(void)
 	int print_alphabet();
 	return (0);
 }
-void print_alphabet_(void);
+void print_alphabet_(void)
 {
 	int i;
 
