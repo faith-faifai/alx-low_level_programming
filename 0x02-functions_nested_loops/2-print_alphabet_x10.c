@@ -1,10 +1,18 @@
 #include <stdio.h>
-#define print_alphabet_x10(void) 
+#define print_alphabet_x10() 
 /**
  * print_alphabet_x10 - Prints the alphabet 10 times.
  *
  * Return: Always 0 (Success)
  */
+
+
+int main(void)
+{
+    print_alphabet_x10();
+    return (0);
+}
+
 void print_alphabet_x10(void)
 {
 	int a, b;
