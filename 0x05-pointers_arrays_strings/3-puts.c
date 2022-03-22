@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * puts - prints a string, followed by a new line.
+ * _puts - prints a string, followed by a new line.
  * @str: input string.
  * Return: no return.
  */
-void puts(char *str)
+void _puts(char *str)
 {
 	int count = 0;
 
@@ -13,10 +13,10 @@ void puts(char *str)
 	{
 		if (str[count] == '\0')
 		{
-			putchar('\n');
+			_putchar('\n');
 			break;
 		}
-		putchar(str[count]);
+		_putchar(str[count]);
 		count++;
 	}
 }
