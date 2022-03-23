@@ -22,6 +22,7 @@ char *_strncat(char *dest, char *src, int n)
 			break;
 		count++;
 		count2++;
+        
 	}
 	return (dest);
 }
