@@ -1,5 +1,5 @@
-#ifndef _FUNCTION_POINTERS_
-#define _FUNCTION_POINTERS_
+#ifndef _MAIN_
+#define _MAIN_
 
 #include <stdlib.h>
 
